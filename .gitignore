@@ -31,3 +31,27 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Build
+target/
+*.jar
+
+# Logs
+*.log
+
+# OS stuff
+.DS_Store
+
+# Env
+.env
+application.properties
+application.yml
+
+# Dependency caches
+.mvn/
+.gradle/
+
+# Spring Boot config
+application.properties
+application.yml
+
